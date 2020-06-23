@@ -9,7 +9,8 @@ Initial Security()
 {
  //Sample Code
 }
-
-
+feature2(){
+//f2added
+}
 
 }
